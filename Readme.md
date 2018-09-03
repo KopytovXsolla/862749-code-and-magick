@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Копытов](https://up.htmlacademy.ru/javascript/15/user/862749).
-* Наставник: [Всеволод Артемьев](https://htmlacademy.ru/profile/id459331).
+* Наставник: `Неизвестно`.
 
 ---
 
